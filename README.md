@@ -2,7 +2,7 @@
 
 This is my first ever Virtual Assistant and it's name is "CHATBOY". it's written in python. For now it can perform following things: 
 
-1.) send email to someone. 
+1.) send E-Mail to someone. 
 2.) open Google. 
 3.) play music on youtube. 
 4.)tell temperature of any city.
@@ -21,3 +21,6 @@ Requirements :
    * pip install PyAutoGUI
    
 Now, You are good to go. Enjoy. . . 
+
+
+NOTE: Please enable less secure apps on Gmail https://myaccount.google.com/lesssecureapps inorder to send E-mail to someone.
