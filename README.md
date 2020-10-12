@@ -8,8 +8,8 @@ This is my first ever Virtual Assistant and it's name is "CHATBOY". it's written
 4.)tell temperature of any city.
 
 Requirements :
-1.) A Laptop (MAC OS Preferable).
-2.) Python 3 
+* A Laptop (MAC OS Preferable).
+* Python 3 
 
 --->> Please Install the following Python Modules : 
 
