@@ -23,4 +23,4 @@ Requirements :
 Now, You are good to go. Enjoy. . . 
 
 
-NOTE: Please enable less secure apps on Gmail https://myaccount.google.com/lesssecureapps inorder to send E-mail to someone.
+NOTE: Please enable less secure apps on Gmail https://myaccount.google.com/lesssecureapps to send E-mail to someone.
