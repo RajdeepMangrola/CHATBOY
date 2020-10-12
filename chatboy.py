@@ -7,7 +7,8 @@ import pyowm
 import smtplib
 import pyautogui
 
-engine = pyttsx3.init()
+engine = pyttsx3.init() # For Mac Os
+# engine = pyttsx3.init('sapi5') // use this engine for windows 7/8/10. . .
 voices = engine.getProperty('voices')
 # print(voices[10])
 engine.setProperty('voices',voices[10])
